@@ -10,6 +10,5 @@
 - 🌱 I’m currently learning **OOP with c++**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lina-yahiaoui&show_icons=true&locale=en" alt="lina-yahiaoui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lina-yahiaoui&" alt="lina-yahiaoui" /></p>
